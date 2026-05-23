@@ -1,0 +1,83 @@
+A,A = Discord Name and Status (#4A86E8) <#000000>
+A,C = Tiers (#EAC63A) <#000000>
+A,D = Level (#A000FF) <#FFFFFF>
+A,E = KD (#A94442) <#000000>
+A,F = Main Platform (#FF0000) <#000000>
+
+B,A = AidanTheAdventurer (#00FF00) <#000000>
+B,B = Experienced (#D9B3FF) <#000000>
+B,C = 60-150 (#0000FF) <#FFFFFF>
+B,D = 0.5-1.0 KD (#F2E88B) <#000000>
+B,E = Xbox (#00FF00) <#000000>
+
+C,A = HollowZ5 (#00FF00) <#000000>
+C,B = Mediocre (#8C8CFF) <#000000>
+C,C = 60-150 (#0000FF) <#FFFFFF>
+C,D = 0.5-1.0 KD (#F2E88B) <#000000>
+C,E = PC (#6D9EEB) <#000000>
+
+D,A = Jamo (#00FF00) <#000000>
+D,B = Untested (#B7B7B7) <#000000>
+D,C = Unchecked (#888888) <#FFFFFF>
+D,D = Unranked (#888888) <#FFFFFF>
+D,E = Xbox (#00FF00) <#000000>
+
+E,A = Karter(10 vouchers) (#00FF00) <#000000>
+E,B = farter gaylin (#00FFFF) <#000000>
+E,C = 60-150 (#0000FF) <#FFFFFF>
+E,D = 0.5-1.0 KD (#F2E88B) <#000000>
+E,E = PlayStation (#0000FF) <#FFFFFF>
+
+F,A = Nba.hyper (#00FF00) <#000000>
+F,B = Intermediate (#C000FF) <#000000>
+F,C = 30-60 (#D000FF) <#000000>
+F,D = 0.5-1.0 KD (#F2E88B) <#000000>
+F,E = PC Controller (#6D9EEB) <#000000>
+
+G,A = Mickk (#00FF00) <#000000>
+G,B = Experienced (#EAD1FF) <#000000>
+G,C = 60-150 (#0000FF) <#FFFFFF>
+G,D = 0.1-0.5 KD (#6FA8DC) <#000000>
+G,E = PlayStation (#0000FF) <#FFFFFF>
+
+H,A = Ninjax0210 (#00FF00) <#000000>
+H,B = Newbie (#00FFFF) <#000000>
+H,C = 1-30 (#6D9EEB) <#000000>
+H,D = Unranked (#888888) <#FFFFFF>
+H,E = PC (#6D9EEB) <#000000>
+
+I,A = Psalms-_- (#00FF00) <#000000>
+I,B = Intermediate (#C000FF) <#000000>
+I,C = 30-60 (#D000FF) <#000000>
+I,D = Unranked (#888888) <#FFFFFF>
+I,E = Xbox (#00FF00) <#000000>
+
+J,A = Shedeur44 (#00FF00) <#000000>
+J,B = Pro (#CC6666) <#000000>
+J,C = 150+ (#990000) <#FFFFFF>
+J,D = 1.0-1.5 KD (#CC0055) <#FFFFFF>
+J,E = PlayStation (#0000FF) <#FFFFFF>
+
+K,A = 《✞|☆○★|✞》 (#AAAAAA) <#000000>
+K,B = Pro (#CC6666) <#000000>
+K,C = 150+ (#990000) <#FFFFFF>
+K,D = 1.0-1.5 KD (#CC0055) <#FFFFFF>
+K,E = PlayStation (#0000FF) <#FFFFFF>
+
+L,A = dinoballinfr (#00FF00) <#000000>
+L,B = Mediocre (#8C8CFF) <#000000>
+L,C = Unchecked (#888888) <#FFFFFF>
+L,D = 0.5-1.0 KD (#F2E88B) <#000000>
+L,E = PC (#6D9EEB) <#000000>
+
+M,A = devxcod (#00FF00) <#000000>
+M,B = Pro (#CC6666) <#000000>
+M,C = 60-150 (#0000FF) <#FFFFFF>
+M,D = 1.0-1.5 KD (#CC0055) <#FFFFFF>
+M,E = PC (#6D9EEB) <#000000>
+
+N,A = Man (#00FF00) <#000000>
+N,B = Mediocre (#8C8CFF) <#000000>
+N,C = 60-150 (#0000FF) <#FFFFFF>
+N,D = 0.5-1.0 KD (#F2E88B) <#000000>
+N,E = PC (#6D9EEB) <#000000>

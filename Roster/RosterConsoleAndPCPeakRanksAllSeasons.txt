@@ -1,0 +1,45 @@
+A,A = Peak Console Rank (All Seasons) (#FF007F) <#000000>
+A,C = Peak PC Rank (All Seasons) (#FF007F) <#000000>
+A,E = R6 EVENTS Leaderboard (#FFFF00) <#000000>
+
+B,A = AidanTheAdventurer (#B7B7B7) <#000000>
+B,B = Copper I (#990000) <#FFFFFF>
+B,C = AidanTheAdventurer (#B7B7B7) <#000000>
+B,D = Copper IV (#CC6600) <#000000>
+B,E = dinoballinfr (#B7B7B7) <#000000>
+B,F = 65 Elo (#B7B7B7) <#000000>
+
+C,A = HollowZ5 (#B7B7B7) <#000000>
+C,B = Unranked (#B7B7B7) <#000000>
+C,C = HollowZ5 (#B7B7B7) <#000000>
+C,D = Bronze III (#E69138) <#000000>
+C,E = Psalms-_- (#B7B7B7) <#000000>
+C,F = 55 Elo (#B7B7B7) <#000000>
+
+D,A = Jamo (#B7B7B7) <#000000>
+D,B = Unranked (#B7B7B7) <#000000>
+D,C = Jamo (#B7B7B7) <#000000>
+D,D = Unranked (#B7B7B7) <#000000>
+D,E = Karter(10 vouchers) (#B7B7B7) <#000000>
+D,F = 15 Elo (#B7B7B7) <#000000>
+
+E,A = Karter(10 vouchers) (#B7B7B7) <#000000>
+E,B = Copper IV (#CC0000) <#FFFFFF>
+E,C = Karter(10 vouchers) (#B7B7B7) <#000000>
+E,D = Unranked (#B7B7B7) <#000000>
+E,E = Jamo (#B7B7B7) <#000000>
+E,F = 0 Elo (#B7B7B7) <#000000>
+
+F,A = Nba.hyper (#B7B7B7) <#000000>
+F,B = Unranked (#B7B7B7) <#000000>
+F,C = Nba.hyper (#B7B7B7) <#000000>
+F,D = Copper V (#CC0000) <#FFFFFF>
+F,E = Nba.hyper (#B7B7B7) <#000000>
+F,F = 0 Elo (#B7B7B7) <#000000>
+
+G,A = Mickk (#B7B7B7) <#000000>
+G,B = Copper V (#CC0000) <#FFFFFF>
+G,C = Mickk (#B7B7B7) <#000000>
+G,D = Copper V (#CC0000) <#FFFFFF>
+G,E = Mickk (#B7B7B7) <#000000>
+G,F = 0 Elo (#B7B7B7) <#000000>

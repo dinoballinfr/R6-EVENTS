@@ -1,3 +1,0 @@
-A,A = Team Alpha (#FF0000) <#FFFFFF>
-A,B = Team Bravo (#00FF00) <#000000>
-B,C = Team Charlie (#2222FF) <#FFFFFF>

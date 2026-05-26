@@ -1,1 +1,1 @@
-All of the networking on this app is powered by Firbase. Click to view the documents.
+POWERED BY PLAYFAB

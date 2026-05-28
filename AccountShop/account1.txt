@@ -7,4 +7,4 @@ PEAK DIAMOND 1.0
 MODIFIED PRICE $20
 ORIGINAL PRICE $30
 https://github.com/DataCluster0/HeatedMetal
-disable
+disabled

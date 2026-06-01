@@ -1,0 +1,36 @@
+New Dokkeabi remaster.
+Dokkaebi is even more lethal with a fresh unique ability—Jegeo Payload—and the option to disrupt Observation Tools from afar. No need to be within close range to take control of dead enemy phones, the original hacking Attacker can now gain access from a distance. Dokkaebi also wields a new gun, the XK23 AR, an experimental bullpup rifle with superior maneuverability for mid-range dominance. Coming from the Korean 제거,“elimination”, Jegeo Payloads replace Logic Bombs as the malware Dokkaebi can upload to enemy devices to block Observation Tools. Targeted phones with the payload explode, causing 40hp of damage to the carrier and creating a fire that can damage other nearby Operators. This unique ability has more charges and a faster cooldown, but a shorter duration—every activation matters more. It’s about precise and coordinated timing.
+
+New RANKED 3.0.
+The most popular playlist is now more competitive and rewarding for everyone. We've removed the hidden Matchmaking Rating (MMR) - your skill is your rank.
+
+We use your rank, squad size, and time and location when matchmaking to make sure teams are balanced. There's also a restriction to ensure less discrepancy between players on the same squad. Squadmates need to be within three ranks of each other, or two for Diamond and Champion ranks.
+
+To help add more distinction among elite players, we've added new divisions to the Champion rank – Champion I Champion II, Champion III, Champion IV, Champion V. The Champion Leaderboard starts with Champion I.
+
+Placement matches are back! At the start of each season, all ranks will be reset and players must complete 5 placement matches to receive a new one. These matches help us calibrate your skill, but your performance in previous seasons also has an influence. Every match matters.
+
+Enjoy a new Ranked rewards track with more competitive coins to celebrate your achievements all season long! Winning counts as two matches completed along the track. Charm and card background rewards are included in the track and tied to each rank you receive. Regardless of the rank you reach, you can still earn the exclusive seasonal headgear just by playing.
+
+New Map Calypso Casino.
+Inspired by Rainbow Six: Vegas, the iconic Calypso Casino arrives in Siege! While staying true to the essence of the original map, it’s been thoughtfully enhanced to meet Siege’s competitive standards. With a new crane for rooftop access, a basement spawn for scaling up the casino façade, and an expanded drone vent network to navigate, verticality opens entirely new routes, strategies, and counterplay options. Calypso Casino has been added to the map pool of Ranked, Unranked, Quick Match, Team Deathmatch, Landmark Drill and Clear House. The Discovery playlist will be available from June 2 to 9 with only Calypso Casino available in its map pool.
+
+Modernized Maps.
+This season adds modernized touches to Emerald Plains, Kanal, and Outback, including visual enhancements, improved lightning, shadows, 4K textures, and destructible ingredients.
+
+Console M&K.
+M&K is coming soon to consoles! Starting mid-season, their use will be allowed in the PC cross play pool, but will still be forbidden in other pools. Teams with console players will have stronger communication, as M&K makes text chat available to all. You can decide whether a Custom Game allows mouse and keyboard with a new Input Device option added to match settings.
+
+Ranked Map Rotations
+We listened to your feedback, and the Ranked playlist will continue rotating its map pool at the start of Season 2 and again mid-season to keep gameplay fresh and maintain a strong competitive foundation. The Ranked map pool expands to three groups. Every map ban will feature two maps from the seasonal and pro pools and one that is showcased. Pro League maps remain fixed for the full season and continue to align with Pro League competitive standards. Showcased maps are hand-selected by the level design team and are highlighted in the map ban when available. Each showcase lasts a few weeks, starting with Calypso Casino. Seasonal maps rotate between updates, refreshing the Ranked experience each season. At the beginning of the season, Calypso Casino is in and Villa, Skyscraper, Theme Park, and Kanal are out.
+
+Battlepass.
+Players who already own Dokkaebi will receive 600 credits instead. Delta Packs will now include a newly recolored Masterpiece weapon skin for the F2.
+
+Events.
+Several in-game events are returning, including M.U.T.E Protocol: Flesh & Metal and Rengoku. Each event features a new Masterpiece weapon skins for the UMP45 and the T-95 LSW. The event Memento can now be bought directly in the shop using R6 Credits—no need to get all items in the collection first anymore. Some old event collection items will also be coming back in the shop if you missed them the first time.
+
+Seasonal Camo Skins.
+A season that celebrates novelty and progress demands a seasonal camo of great caliber. Obtain the exclusive System Override headgear and uniform to show you’re a part of this new age! This seasonal camo will be available from launch, until the end of the season. Once unlocked, find it in your inventory and apply it to all available Operators.
+
+What do you guys think of the new season?
